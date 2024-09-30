@@ -1,4 +1,4 @@
-package com.payu.payu_payment_platform;
+package com.payu.payment_platform;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
